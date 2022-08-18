@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tell a friend\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-04 13:52+0000\n"
+"PO-Revision-Date: 2022-08-11 16:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: tell-friend"
+
+#. Author URI of the plugin
+msgid "https://kmu-digitalisierung.agency"
+msgstr ""
+
+#. Author of the plugin
+msgid "KMU Digitalisierung"
+msgstr ""
+
+#: tell-friend.php:85
+msgid "Select Method:"
+msgstr "Methode auswählen:"
+
+#: tell-friend.php:115
+msgid "Select Post Type:"
+msgstr "Post-Typ auswählen:"
+
+#: tell-friend.php:31
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: tell-friend.php:100
+msgid "Subject E-Mail:"
+msgstr "Betreff E-Mail:"
+
+#. Name of the plugin
+#, fuzzy
+#| msgid "Tell a friend"
+msgid "Tell a Friend"
+msgstr "Einem Freund erzählen"
+
+#: tell-friend.php:57 tell-friend.php:80
+#, fuzzy
+#| msgid "Tell A Friend - Settings"
+msgid "Tell a Friend - Settings"
+msgstr "Einem Freund erzählen - Einstellungen"
+
+#. Description of the plugin
+msgid ""
+"Tell a Friend - Shortcode - [tell-a-friend email_button=\"true\" "
+"whatsapp_button=\"true\" email_subject=\"Subject\" email_text=\"Text\" "
+"whatsapp_text=\"Text\"]"
+msgstr ""
+
+#: tell-friend.php:181 tell-friend.php:241 tell-friend.php:241
+msgid "Tell a Friend via E-Mail"
+msgstr "Weitersagen via e-Mail"
+
+#: tell-friend.php:188 tell-friend.php:248 tell-friend.php:248
+msgid "Tell a Friend via WhatsApp"
+msgstr "Weitersagen via WhatsApp"
+
+#: tell-friend.php:104
+msgid "Text E-Mail:"
+msgstr "Text E-Mail"
+
+#: tell-friend.php:99
+msgid "Text Messages:"
+msgstr "Textnachrichten:"
+
+#: tell-friend.php:109
+msgid "Text WhatsApp:"
+msgstr "Text WhatsApp:"

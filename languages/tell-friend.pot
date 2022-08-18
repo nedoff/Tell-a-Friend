@@ -1,0 +1,76 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tell a friend\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-11 16:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: tell-friend"
+
+#. Author URI of the plugin
+msgid "https://kmu-digitalisierung.agency"
+msgstr ""
+
+#. Author of the plugin
+msgid "KMU Digitalisierung"
+msgstr ""
+
+#: tell-friend.php:85
+msgid "Select Method:"
+msgstr ""
+
+#: tell-friend.php:115
+msgid "Select Post Type:"
+msgstr ""
+
+#: tell-friend.php:31
+msgid "Settings"
+msgstr ""
+
+#: tell-friend.php:100
+msgid "Subject E-Mail:"
+msgstr ""
+
+#. Name of the plugin
+msgid "Tell a Friend"
+msgstr ""
+
+#: tell-friend.php:57 tell-friend.php:80
+msgid "Tell a Friend - Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Tell a Friend - Shortcode - [tell-a-friend email_button=\"true\" "
+"whatsapp_button=\"true\" email_subject=\"Subject\" email_text=\"Text\" "
+"whatsapp_text=\"Text\"]"
+msgstr ""
+
+#: tell-friend.php:181 tell-friend.php:241 tell-friend.php:241
+msgid "Tell a Friend via E-Mail"
+msgstr ""
+
+#: tell-friend.php:188 tell-friend.php:248 tell-friend.php:248
+msgid "Tell a Friend via WhatsApp"
+msgstr ""
+
+#: tell-friend.php:104
+msgid "Text E-Mail:"
+msgstr ""
+
+#: tell-friend.php:99
+msgid "Text Messages:"
+msgstr ""
+
+#: tell-friend.php:109
+msgid "Text WhatsApp:"
+msgstr ""

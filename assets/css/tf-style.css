@@ -1,0 +1,78 @@
+.tf-sharing {
+    margin-top: 30px;
+}
+
+.tf-sharing a{
+    text-decoration: none!important;
+    margin-right: 15px;
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.tf-sharing a:hover{
+    opacity: 0.9;
+}
+
+.tf.tf-email {
+    background: #e65a4d !important;
+    border: 1px solid #e65a4d !important;
+}
+
+.tf.tf-email i {
+    color: #e65a4d !important;
+}
+
+.tf.tf-whatsapp {
+    background: #27cc45 !important;
+    border: 1px solid #27cc45 !important;
+}
+
+.tf.tf-whatsapp i {
+    color: #27cc45 !important;
+}
+
+.tf {
+    padding-left: 10px;
+    padding-right: 0px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    color: #fff !important;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.tf i {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #fff !important;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+
+.tf i img{
+    vertical-align: middle;
+}
+
+
+@media(max-width:560px){
+    .tf-sharing a{
+        display: block;
+        margin-bottom: 15px;
+        margin-right: 0px!important;
+        font-weight: bold;
+    }
+    
+    .tf-sharing a i{
+        float: right;
+        margin-right: 7px;
+        padding-top: 0px;
+        padding-bottom: 2px;
+    }
+    
+    
+}
+
