@@ -2,11 +2,11 @@
 
 /*
  * Plugin Name: Tell a Friend
- * Plugin URI: https://ned.pp.ua
+ * Plugin URI: https://v-ned.tech
  * Description: Tell a Friend - Shortcode - [tell-a-friend email_button="true" whatsapp_button="true" email_subject="Subject" email_text="Text" whatsapp_text="Text"]
  * Version: 1.0.0
- * Author: nedoff
- * Author URI: https://ned.pp.ua
+ * Author: v-ned
+ * Author URI: https://v-ned.tech
  * Text Domain: tell-friend
  * Requires at least: 5.5
  * Tested up to: 6.1
